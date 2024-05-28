@@ -3,8 +3,8 @@
 ## Установка
 
 1. Клонируйте репозиторий:  
->git clone git@github.com:serejekee/water_bot.git
-2. Установите зависимости:  
+>git clone git@github.com:baujin/water_bot.git
+>2. Установите зависимости:  
 >pip install aiogram=2.0
 
 3. Получите токен для вашего Telegram бота у @BotFather и добавьте его в код:  
